@@ -1,1 +1,17 @@
-Hello!
+1. You would use the command: ls -l to print this information.
+2. You would use the command: ls -ltr to print this information.
+3. You would use the command: ls -ltrh to print this information.
+4. To allow you to see when the person last edited the file.
+5. You could use the grep command to find this information.
+6. You would use a grep command to find th folowing patern: 000-00-0000.
+7. You could look for something that has the @ symbol.
+8. You could grep a string and find the information in which you would need.
+9. Because this takes no where near as much time as opening each file and looking for the information.
+10. You could run a find command to find all files that meat certain criteria.
+11. You could use the find command with a *.XLS to find all XLS type files.
+12. You could use a find command with the criteria that you would like.
+13. To allow you te easily decode encrypted files.
+14. These are several commands that you can use to mount or do things related to mounting disks.
+15. You could run a mount -t vfat to mount a disk to access information.
+16. You could pico the file or run a sed to find andreplace iwth 0's.
+17. This is probably a really easy way to corrupt a disk image.
