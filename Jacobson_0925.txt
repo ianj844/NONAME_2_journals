@@ -1,16 +1,16 @@
-1. You would use the command: ls -l to print this information.
-2. You would use the command: ls -ltr to print this information.
-3. You would use the command: ls -ltrh to print this information.
-4. To allow you to see when the person last edited the file.
-5. You could use the grep command to find this information.
+1. You would use the command: ls to list files in linux.
+2. You would use the command: ls -ltr to list files in reverse time order.
+3. You would use the command: ls -ltrh to list files in reverse time order with file information.
+4. You might do this to allow you to see when the person last edited the file.
+5. You could use the grep command to search the contents of a file.
 6. You would use a grep command to find th folowing patern: grep '[0-9]\{3\}-[0-9]\{2\}-[0-9]\{4\}'.
 7. You would use the folowing grep command to find email address: grep '[[:alnum:]+\.\_\-]*@[[:alnum:]+\.\_\-]*'.
-8. You could use the following grep command grep "*TEXT HERE*" direcotry path.
+8. You could use the following grep command to search the contents of a file grep "*TEXT HERE*" direcotry path.
 9. Because this takes no where near as much time as opening each file and looking for the information.
 10. You could run a find command to find all files that meat certain criteria.
 11. You could use the find command find . -type f -name '*.xls' to find all XLS type files.
 12. You could use a find command with the criteria that you would like or ls -ltr.
-13. To allow you te easily decode encrypted files.
+13. You might use these commands to allow you te easily decode encrypted files.
 14. You could run a mount -t vfat to mount a disk to access information.
 15. You could use the mount -t vfat ro,noexec /ev/fd0 *mnt location* command to mount a disk.
 16. Youd could run the command to fill it with 0's sed -i s/*WHATTOREPLACE*/*TOREPLACEWITH*/g *FILE*
