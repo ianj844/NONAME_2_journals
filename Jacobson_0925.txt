@@ -11,7 +11,7 @@
 11. You could use the find command find . -type f -name '*.xls' to find all XLS type files.
 12. You could use a find command with the criteria that you would like or ls -ltr.
 13. You might use these commands to allow you te easily decode encrypted files.
-14. You could run a mount -t vfat to mount a disk to access information.
+14. You could run the fdisk -l command to get disk characteristics.
 15. You could use the mount -t vfat ro,noexec /ev/fd0 *mnt location* command to mount a disk.
 16. Youd could run the command to fill it with 0's sed -i s/*WHATTOREPLACE*/*TOREPLACEWITH*/g *FILE*
 17. This is probably a really easy way to corrupt a disk image.
