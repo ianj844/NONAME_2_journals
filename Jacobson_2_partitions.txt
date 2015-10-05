@@ -1,0 +1,9 @@
+1. This command searches the file for the termes defined in searchterms.txt and then outputs the result to hits.txt. The result of this is 3 lines of text that some hacker would put.
+2. This simply outputs the hits.txt file that contains the results of the search.
+3. This outputs several columns of numbers and leters some of these are part of the orriginal "story".
+4. This creates a file called file.out in the home directory.
+5. This does not work on my computer.
+6. This copy's and appears to unpack the file in the /dev/zero directory.
+7. This returns me an output that there is no more space left.
+8. This returns and output of 0's for the file.out file.
+9. This final line of code returns the almost the same thing that #3 did just it seems to take linger to run
