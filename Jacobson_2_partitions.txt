@@ -3,7 +3,7 @@
 3. This outputs several columns of numbers and leters some of these are part of the orriginal "story".
 4. This creates a file called file.out in the home directory.
 5. This does not work on my computer.
-6. This copy's and appears to unpack the file in the /dev/zero directory.
-7. This returns me an output that there is no more space left.
+6. This line of code creates a file in /dev/zero that fills the whole disk with 0's.
+7. This tells me there is no space left but from what I can tell it is suppose to fill a file with 10M of 0's.
 8. This returns and output of 0's for the file.out file.
 9. This final line of code returns the almost the same thing that #3 did just it seems to take linger to run
