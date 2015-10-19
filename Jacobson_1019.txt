@@ -1,0 +1,11 @@
+A disk image is a image file that contains a image that has files and even operating systems these can be restored and you will have basicly the same computer as the one where the image file was created
+
+dd if=/dev/zero of=file.img bs=1M count=50
+
+A partition is part of one disk like a hard drive but runs multiple things like a mac running mac and windows those are 2 partitions.
+
+By default one but you can create as many as space allows
+
+If you mount an image it may not mount all the partitions
+
+You must learn what partions are on the disk to make sure they are all mounted.
