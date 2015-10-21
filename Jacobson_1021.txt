@@ -1,0 +1,10 @@
+File carving is taking several smaller files and putting them back together 
+to allow the disk to be searchable and to allow for investigation of the disk.
+
+It is done by finding file that look to have a sequence that fits together 
+like a patern thus meaning that those 2 files go together.
+
+I was not present yesterday but from what I understand twe covered partions.
+This relates because partions use file systems and if they become corrupt
+then you would need file carving to recover the file from the partition.
+
