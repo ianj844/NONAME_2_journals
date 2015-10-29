@@ -1,0 +1,4 @@
+I have basicly memorized the algorityhm the start sector * 512 but I 
+still need to go back and look at the whole mount code. 
+I also have figured out how to create the partitions then mount then to make 
+changes to them.
