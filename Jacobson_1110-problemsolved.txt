@@ -1,0 +1,6 @@
+There are several diffrent applications that you can use to recover deleted images.
+1. PhotoRec I dont know if we can use it but it looks like it is really only used for disks or sd cards not disk images.
+2. Extundelete Yes we can because it supports the proper file extentions.
+3. Testdisk This does not directly allow us te recover deleted pictures but it does help recover/ repair lost/ broken partitions to allow us to recover the pictures off of them.
+
+Mainly all you need to know is the file type of the partition and maybe the na,e of the file or image type(.png, .jpg)
