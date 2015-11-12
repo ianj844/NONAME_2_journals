@@ -1,0 +1,5 @@
+You can cat/display the files then output them to a new file.
+Example:
+cat file1.txt file2.txt > file3.txt
+Or
+cat file1.png file2.png > file3.png
