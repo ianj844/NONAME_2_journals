@@ -1,0 +1,3 @@
+It is quite simple all you do is cat all the files and output them to a single file.
+
+To split the files there is a simple split command built into linux.
