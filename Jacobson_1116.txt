@@ -1,0 +1,8 @@
+To split multiple images it is very simple you use the split command then you can use -n to define how many files to split it into.
+
+fallocate
+cfdisk
+kpartx
+mkfs
+mount
+umount
