@@ -1,0 +1,1 @@
+The header for jpg is ffd8 and for png it is 50 4E 47.
