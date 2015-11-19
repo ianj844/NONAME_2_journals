@@ -1,0 +1,8 @@
+First we search for the image header. We search for the header by greping for ffd8. by using the command xxd image_carve.raw | grep ffd8.
+Then we cat to find the line.
+Using the value from that - we use the hex value and base2 to convert the hex value to a decimal number.
+For example, in the example from yesterday, we found the start and converted it to decimal using the command echo "ibase=16;00052A0" | bc.
+Then to find the end of the file, we searched for ffd9 using the command xxd -s 21156 image_carve.raw | grep ffd9.
+******************************************************
+Using that information, we find the number of bits, using the command echo "27766 - 21156" | bc.
+Then using dd we can reconstruct the file using the command dd if=image_carve.raw of=carv.jpg skip=21156 bs=1 count=6610.
