@@ -1,0 +1,11 @@
+This site provides you with information on the byte file header information for diffrent file types.
+
+This site would allow a digital forensics to find recover deleted files by locating the file headers for that file type.
+
+This PDF provides start file header hex's of diffrent file types to allow you to locate deleted files.
+
+To recover a excel document you need the D0CF11E0 file header
+
+To recover a word document you need D0CF11E0 also
+
+And for a zip file you need 504E0304
