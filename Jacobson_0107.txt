@@ -3,3 +3,5 @@
 By running these commands it give us the "passwords" of the teachers and also tells us the Mr. Vidal has the most secure password.
 
 Blkls copies and searches the slackspace if disk images.
+
+We also can find the file mopey and that has the social security numbers of so,e of the teacherss/ staff.
