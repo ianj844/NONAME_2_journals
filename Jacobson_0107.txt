@@ -1,0 +1,1 @@
+1. You could cat the file and determine the proper file header and fotter then could could get another blorb file and check to make sure you get the same information from that file so you know that you found the right file header..
