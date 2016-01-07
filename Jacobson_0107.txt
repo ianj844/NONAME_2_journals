@@ -1,1 +1,5 @@
 1. You could cat the file and determine the proper file header and fotter then could could get another blorb file and check to make sure you get the same information from that file so you know that you found the right file header..
+
+By running these commands it give us the "passwords" of the teachers and also tells us the Mr. Vidal has the most secure password.
+
+Blkls copies and searches the slackspace if disk images.
