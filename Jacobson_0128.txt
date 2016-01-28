@@ -1,0 +1,5 @@
+This is an outlook information file this allows you to view emails from outlook.
+
+These files give you information on an outlook file. These would allows us to collect infromation from the outlook emails. Then we can export the outlook files to allow us to view the contents of the emails.
+
+These programs allow you to see and search mail files and mail folders. Then you can search the files for specific content.
