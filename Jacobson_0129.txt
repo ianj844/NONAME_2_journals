@@ -1,0 +1,7 @@
+There are 9 directories they consist of 2 IPM folders 1 Reminders folder a Search Root folder and a folder called Top of Personal Folders.
+
+They are kept in the Top of Personal Folders/Inbox folder once there you can open teh directory that has all the information for each seperate message.
+
+In the OutlookHeaders.txt file for Message00214 we see that the email was sent from tuckgorge@gmail.com and hidden to look like alison sent it.
+
+From this information we are able to determine that what most likely happend a person with the tuckgorge email disquised his information and requested this email. Jean thought it was alison and send him an excel document with this information. A virus was also placed on the computer by a user named devon. This is probably a screen grab virus that was used to obtain infromation to allow the emails from alison to look more authentic.
