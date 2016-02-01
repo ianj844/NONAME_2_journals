@@ -1,0 +1,10 @@
+1. xmount --in ewf nps-2008-jean.E?? /mnt/ewf/
+2. fls -i raw -o 63 nps-2008-jean.dd 
+
+Then we icat the pst file to allow us to find the directory
+
+Once we recovred the pst we used pffexport to export the excel direcotry.
+
+Then I greped through the pffexport files for the term spreadsheet to locate all emails with the words spreadsheet in it.
+
+Once I discovred what message it was I was able to enter that directory and cat the email headers.
