@@ -1,1 +1,17 @@
+It give us an error that it is a corrupt disk image
 
+It prints us the diffrent partitions that are programmed to the disk.
+
+It acctually prints something in the other one it tells us the disk image is corrupt
+
+The partition number. I starts at 0 and tells us what number partition it is.
+
+It tells us what part of the disk the partition is located in.
+
+These are diffrent disk image types that we can use to save disk images as
+
+It again prints us the  partition tables of the disk image
+
+This prints us all the partitions that have a valid slot value
+
+This prints the partition images that are assotiated with this disk image
