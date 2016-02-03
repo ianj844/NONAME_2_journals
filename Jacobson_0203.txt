@@ -1,0 +1,18 @@
+1. This person is probably using firefox because the system is first accessing several mozilla websites.
+192.168.1.2.64122 > b.resolvers.level3.net.domain: 61551+ A? addons.mozilla.org.
+
+2. 192.168.1.2
+
+3. 192.168.1.1 this is one of the most common IP's for the 
+
+4. Verasign is an SSL certificate issuer (I like comodo because it's cheaper)
+
+5. Python
+
+6. 
+
+7. 
+
+8. 
+
+9. Yes the goverment time server is being accessed
