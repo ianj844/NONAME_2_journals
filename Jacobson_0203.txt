@@ -1,7 +1,7 @@
 1. This person is probably using firefox because the system is first accessing several mozilla websites.
 192.168.1.2.64122 > b.resolvers.level3.net.domain: 61551+ A? addons.mozilla.org.
 
-2. 192.168.1.2
+2. The subnet would be 192.168.1.*
 
 3. 192.168.1.1 this is one of the most common IP's for the 
 
@@ -9,10 +9,16 @@
 
 5. Python
 
-6. 
+6. syn initiates the connection with the destination and ack acknowledges that the data has been recieved.
 
-7. 
+7. Yes somebody is sending an email. We know this because the user tries to access a smtp server.
+15:37:55.151716 IP 192.168.1.3.51877 > 192.168.1.1.domain: 28571+ A? smtp-server.sc.rr.com. (39)
 
-8. 
+8. Yes there is. We know this because there are UDP packets being sent to a local IP
+11:29:35.120927 IP 192.168.1.1.65286 > 192.168.1.255.netbios-ns: NBT UDP PACKET(137): QUERY; REQUEST; BROADCAST
 
 9. Yes the goverment time server is being accessed
+
+10. This is a service used by many web giants to help speed up website load times. (cloudflare)
+
+11. 192.168.1.2 this is most likely the ip of the computer this tcpdump came from.
