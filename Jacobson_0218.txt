@@ -1,0 +1,15 @@
+I see all the urls that I visited and several diffrent peices of information from that website.
+
+1. 10.0.2.15 | 2. 10.215.250.220 | 3. 216.239.32.20
+
+There where 805 requests on port 80 and 483 on port 443
+
+There are no lines with cookie but some lines with host one thing I can see is the source code from the website.
+Host: passwordsgenerator.net
+
+TCP  10.0.2.15:55099 --> 208.80.153.224:443 | A (0)
+When you press h it shows you diffrent inline codes that you can use
+
+It is when an attacker uses somebody legitimate network to perform on attack
+
+Because you are illegally accessing somebody local network.
