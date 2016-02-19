@@ -1,0 +1,9 @@
+1. It allows you to view tcp connection on a network so you can intercept activity.
+
+2. It shows you in a nice form what images where loaded aswell as all the ports or ip addresses you queired.
+
+3. This collects the same information such as websites accessed and images loaded from a computer on a network.
+
+4. This is a horrific software that should not be used but it shows images that are being loaded.
+
+Yes you can use this on public networks but it is not a good idea. These will work because you will be on the same network as the other people. But be aware that if you do it there might be a nice guy from the FBI at your front door.

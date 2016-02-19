@@ -1,0 +1,8 @@
+Website:
+	1. clients5.google.com
+	2. plus.google.com
+	3. apis.google.com
+
+It can tell me what ports and IP's where accessed and how many times.
+
+I ran chaosreader then open the index.html page it created in iceweasel.
