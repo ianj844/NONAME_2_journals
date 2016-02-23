@@ -1,0 +1,22 @@
+1. We see all the aplications that have perform some sort of "sniffing"
+2. wol-e - Wake on LAN Explorer
+   xspy - X server sniffer
+   php-codesniffer - PHP, CSS and JavaScript coding standard analyzer and checker
+3. This means that our IP address is not being forwarded to another computer
+4. So that they can hide their netowork traffic and make it look like ours and/or monitor our network traffic
+5. A. apt-get update
+   B. apt-get install zenmap
+6. We see the status of several diffrent ports. Wether they are open or closed.
+7. It begans to only show us only thta ports that are open (ssh and rpcbind)
+8. It scans all the ip address that end in 1-29 and see what ports they have open
+9. Because they can see if they acctually had access to the port where the crime was commited or not
+10. It is an operating system on the computer like on this computer we run linux
+11. Do see what computers are on your network and make sure they are suppose to be there
+12. nmap -O -F 10.4.27.1-29
+13. 10.4.27.126 and 10.4.27.127
+14. 10.4.27.254
+15. It shows you the information regarding your internet connection
+16. 10.0.2.15
+17. fe80::a00:27ff:fe9a:176d
+18. Because IPv6 is diffrent than IPv4. IPv6 is newer and allows me IP addresses to be issued compared to IPv4
+29. Shared on google drive
