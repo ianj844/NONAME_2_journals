@@ -1,0 +1,1 @@
+10.4.27.39 is Mr.Davis computer I know this because his computer is the active directory server and its the only non student use computer that has the ldap port open.
