@@ -19,4 +19,4 @@
 16. 10.0.2.15
 17. fe80::a00:27ff:fe9a:176d
 18. Because IPv6 is diffrent than IPv4. IPv6 is newer and allows me IP addresses to be issued compared to IPv4
-29. Shared on google drive
+19. Shared on google drive
