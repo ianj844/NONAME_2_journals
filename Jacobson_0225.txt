@@ -1,0 +1,11 @@
+1. Using ipconfig/ ifconfig
+2. It sniff packets from a wireless connection or detect intrusions into a wireless network
+3. Because its illegal for us to log packets
+4. To log internet access on your own internal network
+5. War dricing is when people drive around looking for wifi networks
+6. War dirving just looks for the wireless hotspot. piggy-backing acctually uses the wireless connection
+7. Piggy-backing because they are acctully connecting to your wireless network
+8. Because it can detect wireless intrusions so you will know if somebody is piggy-backing on your network
+9. Because you can see what packets are being sent and recived on your network
+10. They show you all wifi hotspots. They use web based and phone/ computer based software to collect this information.
+11. For people to see where there are wireless conections near them
