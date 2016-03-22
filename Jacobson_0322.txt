@@ -1,0 +1,8 @@
+1. This command is used to configure the bluetooth settings of a bluetooth device installed on the computer.
+	- hciconfig -a *device_name* up
+2. hcitool allows you to only configure bluetooth devices
+	- hcitool -i dev
+3. hcidump allows you to parse data from an HCI connection
+	- hcidump -h
+
+There was one python package (python-hid) that was interesting because they misspelled python in the description.
