@@ -1,0 +1,6 @@
+1. They use loopholes in bluetooth devices to allow them to access devices.
+2. You could assume that somebody has entered the blutooth network and could have mall intent towards your devices.
+3. Becuase you can detirme that information being set via bluetooth is going to a third party before going to its destination.
+4. These people intercepted the bluetooth signal so that they could intercept information from computers for their own personal gain.
+5. You could look at the bluetooth devices connected to a computer to determine if there are any devices that should not be connected.
+6. Disabled bluetooth
