@@ -1,0 +1,12 @@
+1. 1. hciconfig -a hci0 name *name*
+   2. hcitool -i hci0 scan
+   3. hcidump -w *dump_name*
+
+2. It allows other bluetooth divices to see your devices. (It makes it "discoverable")
+
+3. 1. This is a problem because not only can they get your information but it can also cause your device to do things like crashing
+   2. This is bad because the person has no clue of knowing that it is an attack on their device.
+   3. This can be bad because it's highly ILLEGAL
+
+4. 3. This makes the terminal an agent that can display results of commands
+   4. This makes the terminal the default agent for the program.
