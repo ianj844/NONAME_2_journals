@@ -1,0 +1,17 @@
+1. Wi-Fi has a bandwith of 2.4GHz
+
+2. Channels 1-11
+
+3. Most people use channel 1, 6 and 11 because they dont interfier with eachother.
+
+3A. A, B, G, N use 2.4GHz networks while AC uses 5GHz
+
+4. These are diffrent types of Wi-Fi encryption. WEP is the oldest and most vulnerable of all of these.
+
+5. WPA2 is the most secure and WEP is the least secure.
+
+6. Airsnort allows you to see packets being sent over a WEP encrypted network.
+
+7. Kismet allows you to scan wireless networks however when you scan and store packets its becomes illegal to use.
+
+8. Karma allows you to spoof DNS queries
