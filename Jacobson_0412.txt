@@ -1,0 +1,4 @@
+1. Because instead of just logging wireless networks they also logged the packets going over those networks.
+2. Kismet
+3. They forgot to disabled the packet logging feature.
+4. No because if they have the infromation them it really helps their company grow.

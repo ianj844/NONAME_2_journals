@@ -1,0 +1,7 @@
+1. Having to adapt tools to work with diffrent devices
+2. People having unrealistic expectations about digital forensics.
+3. Because it tells you the file type and the application used to write the file.
+4. Select a random sector. If there is data then the drive is not wiped if there is no data then the drive has been wiped.
+5. bulk_extractor
+   DFXML
+   Data!

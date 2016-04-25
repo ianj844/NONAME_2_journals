@@ -1,0 +1,4 @@
+1. Hackers like public networks because there is no security. This allows then to easily get into a network and access peoples computers.
+2. Not use public wireless networks and turn Wi-Fi off when you are not using it
+3. It allows you to access secure information through an unsecure netowrk by encrypting it.
+

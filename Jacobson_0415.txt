@@ -1,0 +1,12 @@
+1. - ARP Poisoning
+   - DNS Spoofing
+   - STP Mangling
+   - Port Stealing
+   - DHCP Spoofing
+   - ICMP Redirection
+   - IRDP Spoofing
+   - Route Mangling
+   - DNS Poisoning
+   - Traffic Tunneling
+
+2. You can use SSL certificates to verify the integraty of a server and your connection to that server.
