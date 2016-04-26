@@ -1,0 +1,13 @@
+1. Yes you can access it by going to 192.168.1.1 or 192.168.0.1
+
+2. Netgear AC1750 and Several diffrent Apple wireless devices.
+
+3. The default Netgear and Apple firmware
+
+4. Yes
+
+5. 812.11ac 
+
+6. Yes I change it about every 2 months
+
+7. Yes to increase security
