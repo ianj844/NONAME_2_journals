@@ -1,0 +1,5 @@
+1. It passes parts of the password in plain text over the network. This would allow a hacker to monitor the wireless connection and eventually get the password.
+
+2. Most WEP attacks most commonly begin with some sort of man in the middle attack to get the password.
+
+3. The most simple answer is to not use WEP. Use something more secure like WPA or WPA2
