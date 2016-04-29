@@ -1,0 +1,9 @@
+1. A. Tomato Firmware
+   B. OpenWRT
+   C. DD-WRT
+
+2. The advantages of OpenWRT is that it has to ability to add packages created by yuorself or other people.
+
+3. Some versions may not have a UI so if you are not an "experienced developer" you might have a harder time using these systems.
+
+4. You first have to get the files on the router then overwrite the preinstalled OEM software.
