@@ -1,0 +1,9 @@
+1. There was information on about 10 diffrent wireless connections in the area.
+
+2. Nothing Happens
+
+3: ERROR
+
+4: This downloads a new kernel for kali
+
+

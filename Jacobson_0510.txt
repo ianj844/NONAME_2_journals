@@ -1,0 +1,15 @@
+1. An access point is where the client conenects to. (A wireless router)
+
+2. A client is something that connects to a wireless network. (Computer, Phone)
+
+3. A bridge is when something serves as the wireless access point but not the router. So it provides wireless access but does not assign IP's.
+
+4. This is a fancy way of saying wireless extenderes. It takes a weak wireless signal and rebroadcasts it as a stronger signal.
+
+5. This is when basicly peoples devices serve as access points for other peoples devices.
+
+6. A mesh network is several networks interconnected to create one large wireless network.
+
+7. These are symbols drawn at public wifi points to show the type of public network available.
+
+8. A network setup by an attacker to sniff wireless packets.
